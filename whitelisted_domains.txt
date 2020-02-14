@@ -1,0 +1,16 @@
+@github.com
+@slack.com
+@mlh.io
+@eventbrite.com
+@ellehacks.com
+@linkedin.com
+@turbotax-email.ca
+@payments.interac.ca
+@utsc.utoronto.ca
+@mchacks.ca
+@utoronto.ca
+@letstalkscience.ca
+@accounts.google.com
+@ontario.ca
+@mail.csnpe-nslsc.canada.ca
+@amazon.ca
